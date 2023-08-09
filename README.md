@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I like to develop back-end systems on the Roblox platform in my free time. I also like to contribute to the open source world.
+
+![Deniernal354's GitHub stats](https://github-readme-stats-gray-eight-32.vercel.app/api?username=Deniernal354&count_private=true&show_icons=true&theme=vue)
+
+![Top Languages](https://github-readme-stats-gray-eight-32.vercel.app/api/top-langs/?username=Deniernal354&layout=compact,github-readme-stats&theme=vue)
+
 <!--
 **Deniernal354/Deniernal354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
