@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I like to develop back-end systems using various technologies such as React, Python, Java, C++, C, Javascript, Dart, and Lua.
+I like to develop back-end and front-end systems using various technologies such as React, Python, Java, C++, C, TypeScript, JavaScript, HTML, CSS, Dart, and Lua.
 I create and manage game systems on the Roblox platform in my free time.
 I also like to contribute to the open source world.
 
