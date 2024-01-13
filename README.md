@@ -1,8 +1,9 @@
-### 👋 Hi there, I am Amr
+# 👋 Hi there, I am Amr
+#### 🔘 Currently looking for **Summer 2024** Internships
+
+<br>
 
 🏷️ He/Him
-
-🔘 Looking for **Summer 2024** Internships
 
 👨‍💻 Codes projects using Python, Javascript, Java, C/C++ to create viable solutions to every day problems
 
