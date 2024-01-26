@@ -1,4 +1,4 @@
-![Header](./amr-moustafa-header.png)
+![Header](./Amr-Moustafa-header.png)
 
 # Amr Moustafa
 #### 🔘 Currently looking for **Summer 2024** Internships
