@@ -1,4 +1,6 @@
-# 👋 Hi there, I am Amr
+![Header](./amr-moustafa-header.png)
+
+# Amr Moustafa
 #### 🔘 Currently looking for **Summer 2024** Internships
 
 <br>
