@@ -1,24 +1,26 @@
 ![Header](./Amr-Moustafa-header.png)
 
 # Amr Moustafa
-#### 🔘 Currently looking for **Summer 2024** Internships
+#### 🔘 Currently looking for **Summer 2024, and Fall 2025** Internships or CO-OPs
 
-<br>
 
-🏷️ He/Him
+# 
 
 👨‍💻 Codes projects using Python, Javascript, Java, C/C++ to create viable solutions to every day problems
 
-🌐 [Personal Website](https://amrmoustafa.mydurable.com)
+🌐 [Personal Website](https://amr.uk.to?r=github)
 
-I have a passion in the development of back-end and front-end systems using various technologies such as React, Python, Java, C++, C, TypeScript, JavaScript, HTML, CSS, Dart, and Lua. 
-I create and manage game systems on the Roblox platform in my free time. I also like to contribute to the open source world.
+#
+
+I have a passion in the development of a multitude of systems using various technologies. <br>
+I enjoy creating back-end and front-end systems using Python, Java, C++, C, TypeScript, JavaScript, Dart, React, and Lua. <br>
+I create and manage games using the Roblox game engine in my free time. I also like to contribute to the open source world.
 
 I have contributed to the open-source world by participating in <pre><a href="https://github.com/CarletonComputerScienceSociety"><img src="https://avatars.githubusercontent.com/u/1243507?v=4" align="center" width="20" alt="Carleton University's Computer Science Society (CCSS) Logo"></a> <a href="https://github.com/CarletonComputerScienceSociety">Carleton University's Computer Science Society</a><br>
 <a href="https://hacktoberfest.com"><img src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--logomark.b91c17d2.svg" align="center" width="20" alt="Hacktoberfest 2023 Logo"></a> <a href="https://hacktoberfest.com">Hacktoberfest 2020 and Hacktoberfest 2023</a></pre>
 
 <picture>
-  <img src="/github-metrics.svg" alt="Metrcis">
+<img src="/github-metrics.svg" alt="Metrics" >
 </picture>
 
 ## Languages
@@ -32,29 +34,28 @@ I have contributed to the open-source world by participating in <pre><a href="ht
 ![Lua](https://img.shields.io/badge/lua-323330.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-323330.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/django-323330.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ## ML/DL - Machine Learning / Deep Learning
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-
-## Frameworks, Platforms and Libraries
-![Bootstrap](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Bulma](https://img.shields.io/badge/bulma-20232A?style=for-the-badge&logo=bulma&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-20232A.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-20232A?style=for-the-badge&logo=Electron&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-20232A?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![Express.js](https://img.shields.io/badge/express.js-20232A.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/flask-20232A.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-20232A.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Jinja](https://img.shields.io/badge/jinja-20232A.svg?style=for-the-badge&logo=jinja&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-20232A?style=for-the-badge&logo=JSON%20web%20tokens)
-![NodeJS](https://img.shields.io/badge/node.js-20232A?style=for-the-badge&logo=node.js&logoColor=white)
-![Pug](https://img.shields.io/badge/Pug-20232A?style=for-the-badge&logo=pug&logoColor=A86454)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/react_native-20232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![WordPress](https://img.shields.io/badge/WordPress-20232A.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+## Frameworks / Platforms / Libraries
+![Django](https://img.shields.io/badge/django-064354.svg?style=for-the-badge&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-064354?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bulma](https://img.shields.io/badge/bulma-064354?style=for-the-badge&logo=bulma&logoColor=white)
+![Chart.js](https://img.shields.io/badge/chart.js-064354.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron-064354?style=for-the-badge&logo=Electron&logoColor=white)
+![Expo](https://img.shields.io/badge/expo-064354?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![Express.js](https://img.shields.io/badge/express.js-064354.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-064354.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-064354.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Jinja](https://img.shields.io/badge/jinja-064354.svg?style=for-the-badge&logo=jinja&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-064354?style=for-the-badge&logo=JSON%20web%20tokens)
+![NodeJS](https://img.shields.io/badge/node.js-064354?style=for-the-badge&logo=node.js&logoColor=white)
+![Pug](https://img.shields.io/badge/Pug-064354?style=for-the-badge&logo=pug&logoColor=A86454)
+![React](https://img.shields.io/badge/React-064354?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/react_native-064354.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![WordPress](https://img.shields.io/badge/WordPress-064354.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ## Cloud Technology
 ![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -117,9 +118,9 @@ I have contributed to the open-source world by participating in <pre><a href="ht
 ![GitLab](https://img.shields.io/badge/gitlab-0A0FFF.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 -->
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-gray-eight-32.vercel.app/api?username=Deniernal354&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="Amr Moustafa's github stats"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deniernal354&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-gray-eight-32.vercel.app/api?username=Deniernal354&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true" alt="Amr Moustafa's github stats"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deniernal354&layout=compact&theme=merko&hide_border=true" /></a> |
 | ------------- | ------------- |
-| <img align="center" src="https://github-profile-trophy.vercel.app/?username=Deniernal354&column=5&margin-w=7&margin-h=7" alt="Amr Moustafa's github trophies"/> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deniernal354" alt="Amr Moustafa's GitHub Contribution Streaks"/> |
+| <img align="center" src="https://github-profile-trophy.vercel.app/?username=Deniernal354&column=5&margin-w=7&margin-h=7&theme=juicyfresh&no-frame=true" alt="Amr Moustafa's github trophies"/> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deniernal354&theme=merko" alt="Amr Moustafa's GitHub Contribution Streaks"/> |
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Deniernal354&color=4f6a31&style=flat)
 
