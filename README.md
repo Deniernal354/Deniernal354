@@ -17,6 +17,10 @@ I create and manage game systems on the Roblox platform in my free time. I also 
 I have contributed to the open-source world by participating in <pre><a href="https://github.com/CarletonComputerScienceSociety"><img src="https://avatars.githubusercontent.com/u/1243507?v=4" align="center" width="20" alt="Carleton University's Computer Science Society (CCSS) Logo"></a> <a href="https://github.com/CarletonComputerScienceSociety">Carleton University's Computer Science Society</a><br>
 <a href="https://hacktoberfest.com"><img src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--logomark.b91c17d2.svg" align="center" width="20" alt="Hacktoberfest 2023 Logo"></a> <a href="https://hacktoberfest.com">Hacktoberfest 2020 and Hacktoberfest 2023</a></pre>
 
+<picture>
+  <img src="/github-metrics.svg" alt="Metrcis">
+</picture>
+
 ## Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white)
