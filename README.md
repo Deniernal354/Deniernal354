@@ -21,16 +21,6 @@ I have contributed to the open-source world by participating in <pre><a href="ht
   <img src="/github-metrics.svg" alt="Metrcis">
 </picture>
 
-## Operating Systems
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Raspberry Pi Linux](https://img.shields.io/badge/Raspberry%20Pi%20Linux-0078D6?logo=raspberrypi&logoColor=fff&style=for-the-badge)
-![Kali](https://img.shields.io/badge/Kali-0078D6?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=linux&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red%20Hat-0078D6?style=for-the-badge&logo=redhat&logoColor=white)
-![Android](https://img.shields.io/badge/Android-0078D6?style=for-the-badge&logo=android&logoColor=white)
-
-
 ## Languages
 ![C](https://img.shields.io/badge/c-323330.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-323330.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -83,6 +73,17 @@ I have contributed to the open-source world by participating in <pre><a href="ht
 ![Vercel](https://img.shields.io/badge/vercel-FF9900.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
+## Operating Systems
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Raspberry Pi Linux](https://img.shields.io/badge/Raspberry%20Pi%20Linux-0078D6?logo=raspberrypi&logoColor=fff&style=for-the-badge)
+![Kali](https://img.shields.io/badge/Kali-0078D6?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=linux&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-0078D6?style=for-the-badge&logo=redhat&logoColor=white)
+![Android](https://img.shields.io/badge/Android-0078D6?style=for-the-badge&logo=android&logoColor=white)
+
+
+<!--
 ## IDEs / Text Editors
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-38693e.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-38693e.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -91,6 +92,8 @@ I have contributed to the open-source world by participating in <pre><a href="ht
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-38693e.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-38693e.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-38693e?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+-->
+
 
 ## Databases
 ![Firebase](https://img.shields.io/badge/Firebase-07405e?style=for-the-badge&logo=Firebase&logoColor=white)
@@ -99,7 +102,7 @@ I have contributed to the open-source world by participating in <pre><a href="ht
 ![SQLite](https://img.shields.io/badge/sqlite-07405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-07405e?style=for-the-badge&logo=Prisma&logoColor=white)
 
-
+<!--
 ## Other
 ![Jira](https://img.shields.io/badge/jira-0A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-0A0FFF?style=for-the-badge&logo=postman&logoColor=white)
@@ -112,7 +115,7 @@ I have contributed to the open-source world by participating in <pre><a href="ht
 ![Bitbucket](https://img.shields.io/badge/bitbucket-0A0FFF.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Git](https://img.shields.io/badge/git-0A0FFF.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-0A0FFF.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
+-->
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-gray-eight-32.vercel.app/api?username=Deniernal354&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="Amr Moustafa's github stats"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deniernal354&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
