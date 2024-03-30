@@ -9,8 +9,8 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-  enviroment:
-    name: Metrics Actions
+    environment:
+      name: Metrics Actions
     permissions:
       contents: write
     steps:
