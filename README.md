@@ -13,7 +13,7 @@
 #
 
 I have a passion in the development of a multitude of systems using various technologies. <br>
-I enjoy creating back-end and front-end systems using Python, Java, C++, C, TypeScript, JavaScript, Dart, React, and Lua. <br>
+I enjoy creating back-end and front-end systems using Python, Java, C++, C, JavaScript, Dart, React, and Lua. <br>
 I create and manage games using the Roblox game engine in my free time. I also like to contribute to the open source world.
 
 I have contributed to the open-source world by participating in <pre><a href="https://github.com/CarletonComputerScienceSociety"><img src="https://avatars.githubusercontent.com/u/1243507?v=4" align="center" width="20" alt="Carleton University's Computer Science Society (CCSS) Logo"></a> <a href="https://github.com/CarletonComputerScienceSociety">Carleton University's Computer Science Society</a><br>
