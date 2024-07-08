@@ -1,6 +1,6 @@
-![Header](./Amr-Moustafa-header.png)
+![Header](./-headerf.png)
 
-# Amr Moustafa
+<!-- # Amr Moustafa-->
 #### 🔘 Currently looking for **Summer 2024, and Fall 2025** Internships or CO-OPs
 
 
@@ -8,7 +8,7 @@
 
 👨‍💻 Codes projects using Python, Javascript, Java, C/C++ to create viable solutions to every day problems
 
-🌐 [Personal Website](https://amr.uk.to?r=github)
+<!--🌐 [Personal Website](https://amr.uk.to?r=github)-->
 
 #
 
@@ -21,7 +21,7 @@ I have contributed to the open-source world by participating in <pre><a href="ht
 
 
 <picture>
-    <img src="/github-metrics.svg" alt="Metrics">
+    <img src="/agithub-metrics.svg" alt="Metrics">
 </picture>
 
 ### Languages
