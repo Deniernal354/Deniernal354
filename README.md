@@ -28,16 +28,17 @@ My open-source world contributions so far are: <pre><a href="https://github.com/
 -->
 
 ### Languages
+![Python](https://img.shields.io/badge/Python-07405E?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-07405E.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-07405E.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-07405E.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-07405E.svg?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-07405E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-07405E?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-07405E?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-07405E.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-07405E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-07405E.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-07405E.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-07405E?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-07405E?style=for-the-badge&logo=terminal&logoColor=white)
 
 ### ML/DL - Machine Learning / Deep Learning
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2307405E.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
