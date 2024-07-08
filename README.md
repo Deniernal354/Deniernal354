@@ -1,4 +1,4 @@
-![Header](./-headerf.png)
+![Header](./Amr-Moustafa-header.png)
 
 <!-- # Amr Moustafa-->
 #### 🔘 Currently looking for **Summer 2024, and Fall 2025** Internships or CO-OPs
@@ -8,21 +8,24 @@
 
 👨‍💻 Codes projects using Python, Javascript, Java, C/C++ to create viable solutions to every day problems
 
-<!--🌐 [Personal Website](https://amr.uk.to?r=github)-->
+🌐 [Personal Website](https://amr.uk.to?r=githubpage)
 
 #
 
-I am passionate to create back-end and front-end systems using Python, Java, C++, C, JavaScript, Dart, React, and Lua. <br>
+### My Interests 
+I am a passionate individual that loves to create back-end and front-end systems using Python, Java, C++, C, JavaScript, Dart, React, and Lua. <br>
 I create and manage games using the Roblox game engine in my free time. <br>
 I also like to contribute to the open source world.
 
-I have contributed to the open-source world by participating in <pre><a href="https://github.com/CarletonComputerScienceSociety"><img src="https://avatars.githubusercontent.com/u/1243507?v=4" align="center" width="20" alt="Carleton University's Computer Science Society (CCSS) Logo"></a> <a href="https://github.com/CarletonComputerScienceSociety">Carleton University's Computer Science Society</a><br>
+My open-source world contributions so far are: <pre><a href="https://github.com/CarletonComputerScienceSociety"><img src="https://avatars.githubusercontent.com/u/1243507?v=4" align="center" width="20" alt="Carleton University's Computer Science Society (CCSS) Logo"></a> <a href="https://github.com/CarletonComputerScienceSociety">Carleton University's Computer Science Society</a><br>
 <a href="https://hacktoberfest.com"><img src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--logomark.b91c17d2.svg" align="center" width="20" alt="Hacktoberfest 2023 Logo"></a> <a href="https://hacktoberfest.com">Hacktoberfest 2020 and Hacktoberfest 2023</a></pre>
 
+---
 
-<picture>
-    <img src="/agithub-metrics.svg" alt="Metrics">
+<!--<picture>
+    <img src="/github-metrics.svg" alt="Metrics">
 </picture>
+-->
 
 ### Languages
 ![C](https://img.shields.io/badge/c-07405E.svg?style=for-the-badge&logo=c&logoColor=white)
