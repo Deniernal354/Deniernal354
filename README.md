@@ -34,8 +34,6 @@ My open-source world contributions so far are: <pre><a href="https://github.com/
 ![Java](https://img.shields.io/badge/java-07405E.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-07405E.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-07405E.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-07405E?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-07405E?style=for-the-badge&logo=html5&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-07405E.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-07405E.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-07405E?style=for-the-badge&logo=terminal&logoColor=white)
@@ -86,19 +84,7 @@ My open-source world contributions so far are: <pre><a href="https://github.com/
 ![Kali](https://img.shields.io/badge/Kali-07405E?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-07405E?style=for-the-badge&logo=linux&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-07405E?style=for-the-badge&logo=redhat&logoColor=white)
-![Android](https://img.shields.io/badge/Android-07405E?style=for-the-badge&logo=android&logoColor=white)
 
-
-<!--
-## IDEs / Text Editors
-![Android Studio](https://img.shields.io/badge/Android%20Studio-38693e.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-38693e.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-38693e.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-38693e?style=for-the-badge&logo=Replit&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-38693e.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-38693e.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-38693e?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
--->
 
 
 ### Databases
@@ -108,26 +94,43 @@ My open-source world contributions so far are: <pre><a href="https://github.com/
 ![SQLite](https://img.shields.io/badge/sqlite-07405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-07405e?style=for-the-badge&logo=Prisma&logoColor=white)
 
-<!--
-## Other
-![Jira](https://img.shields.io/badge/jira-0A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-0A0FFF?style=for-the-badge&logo=postman&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-0A0FFF?style=for-the-badge&logo=powerbi&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0A0FFF.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/gunicorn-0A0FFF.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-0A0FFF.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-0A0FFF?style=for-the-badge&logo=slack&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-0A0FFF?style=for-the-badge&logo=selenium&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-0A0FFF.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Git](https://img.shields.io/badge/git-0A0FFF.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-0A0FFF.svg?style=for-the-badge&logo=gitlab&logoColor=white)
--->
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-gray-eight-32.vercel.app/api?username=Deniernal354&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true" alt="Amr Moustafa's github stats"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deniernal354&layout=compact&theme=merko&hide_border=true" /></a> |
+
+<details>
+    <summary>
+        Expand for a list of some more tools I have proficiency in and professional experience with    
+    </summary>
+
+> ## IDEs / Text Editors
+> ![Android Studio](https://img.shields.io/badge/Android%20Studio-38693e.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+> ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-38693e.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+> ![Notepad++](https://img.shields.io/badge/Notepad++-38693e.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=white)
+> ![Replit](https://img.shields.io/badge/Replit-38693e?style=for-the-badge&logo=Replit&logoColor=white)
+> ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-38693e.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+> ![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-38693e.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+> ![PyCharm](https://img.shields.io/badge/pycharm-38693e?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+
+> ## Other
+> ![Jira](https://img.shields.io/badge/jira-0A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+> ![Postman](https://img.shields.io/badge/Postman-0A0FFF?style=for-the-badge&logo=postman&logoColor=white)
+> ![Power Bi](https://img.shields.io/badge/power_bi-0A0FFF?style=for-the-badge&logo=powerbi&logoColor=white)
+> ![Trello](https://img.shields.io/badge/Trello-0A0FFF.svg?style=for-the-badge&logo=Trello&logoColor=white)
+> ![Gunicorn](https://img.shields.io/badge/gunicorn-0A0FFF.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
+> ![Nginx](https://img.shields.io/badge/nginx-0A0FFF.svg?style=for-the-badge&logo=nginx&logoColor=white)
+> ![Slack](https://img.shields.io/badge/Slack-0A0FFF?style=for-the-badge&logo=slack&logoColor=white)
+> ![Selenium](https://img.shields.io/badge/-selenium-0A0FFF?style=for-the-badge&logo=selenium&logoColor=white)
+> ![Bitbucket](https://img.shields.io/badge/bitbucket-0A0FFF.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+> ![Git](https://img.shields.io/badge/git-0A0FFF.svg?style=for-the-badge&logo=git&logoColor=white)
+> ![GitLab](https://img.shields.io/badge/gitlab-0A0FFF.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+</details>
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-gray-eight-32.vercel.app/api?username=Deniernal354&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="Amr Moustafa's github stats"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deniernal354&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
-| <img align="center" src="https://github-profile-trophy.vercel.app/?username=Deniernal354&column=5&margin-w=7&margin-h=7&theme=juicyfresh&no-frame=true" alt="Amr Moustafa's github trophies"/> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deniernal354&theme=merko" alt="Amr Moustafa's GitHub Contribution Streaks"/> |
+| <img align="center" src="https://github-profile-trophy.vercel.app/?username=Deniernal354&column=5&margin-w=7&margin-h=7&theme=dracula&no-frame=true" alt="Amr Moustafa's github trophies"/> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deniernal354&theme=dracula" alt="Amr Moustafa's GitHub Contribution Streaks"/> |
 
-![Profile Views](https://komarev.com/ghpvc/?username=Deniernal354&color=4f6a31&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Deniernal354&color=4f6a31&style=flat-square)
+<!--![Profile Views](https://visitcount.itsvg.in/api?id=Deniernal354&icon=0&color=6)-->
+
 
 <!--
 **Deniernal354/Deniernal354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
