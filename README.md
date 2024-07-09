@@ -6,14 +6,14 @@
 
 # 
 
-👨‍💻 Codes projects using Python, Javascript, Java, C/C++ to create viable solutions to every day problems
+👨‍💻 Codes projects using Python, Javascript, Java, C, C++ to create viable solutions to every day problems
 
 🌐 [Personal Website](https://amr.uk.to?r=githubpage)
 
 #
 
 ### My Interests 
-I am a passionate individual that loves to create back-end and front-end systems using Python, Java, C++, C, JavaScript, Dart, React, and Lua. <br>
+I am a passionate individual that loves to create full-stack systems and multi-platform applications using JavaScript, Dart, React, and Lua. <br>
 I create and manage games using the Roblox game engine in my free time. <br>
 I also like to contribute to the open source world.
 
