@@ -126,7 +126,7 @@ My open-source world contributions so far are: <pre><a href="https://github.com/
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-gray-eight-32.vercel.app/api?username=Deniernal354&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="Amr Moustafa's github stats"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deniernal354&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
-| <img align="center" src="https://github-profile-trophy.vercel.app/?username=Deniernal354&column=5&margin-w=7&margin-h=7&theme=dracula&no-frame=true" alt="Amr Moustafa's github trophies"/> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deniernal354&theme=dracula" alt="Amr Moustafa's GitHub Contribution Streaks"/> |
+| <img align="center" src="https://github-profile-trophy.vercel.app/?username=Deniernal354&column=5&margin-w=7&margin-h=7&theme=dracula&no-frame=true" alt="Amr Moustafa's github trophies"/> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Deniernal354&theme=dracula" alt="Amr Moustafa's GitHub Contribution Streaks"/> |
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Deniernal354&color=4f6a31&style=flat-square)
 <!--![Profile Views](https://visitcount.itsvg.in/api?id=Deniernal354&icon=0&color=6)-->
