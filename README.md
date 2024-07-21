@@ -1,4 +1,4 @@
-![Header](./Amr-Moustafa-header.png)
+![Header](./My-header.png)
 
 #### 🔘 Currently looking for **Summer 2024, and Fall 2025** Internships or CO-OPs
 
