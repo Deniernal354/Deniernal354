@@ -12,8 +12,8 @@
 #
 
 ### About Amr
-I am simply love to automate boring things and create solutions to enhance our lives with any tools necessary, if I don't know it I **will learn** it<br>
-I create and maintain multi-million player games using the Roblox game engine in my free time. <br>
+I simply love to automate boring things and create solutions to enhance our lives with any tool, if I don't know it I **will learn** it<br>
+I create and maintain multi-million visited games using the Roblox game engine in my free time. <br>
 I also like to contribute to the various projects in open source world.
 
 My open-source world contributions so far are: <pre><a href="https://github.com/CarletonComputerScienceSociety"><img src="https://avatars.githubusercontent.com/u/1243507?v=4" align="center" width="20" alt="Carleton University's Computer Science Society (CCSS) Logo"></a> <a href="https://github.com/CarletonComputerScienceSociety">Carleton University's Computer Science Society</a><br>
