@@ -5,27 +5,34 @@
 
 # 
 
-👨‍💻 Codes projects using Python, Javascript, Java, C, C++ to create viable solutions to every day problems
+👨‍💻 Spearheads & develops projects in Python, Java, Go, C, C++, Bash, TypeScript to create efficient solutions to every day problems
 
 🌐 [Personal Website](https://amr.uk.to?r=githubpage)
 
 #
 
-### My Interests 
-I am a passionate individual that loves to create full-stack systems and multi-platform applications using JavaScript, Dart, React, and Lua. <br>
-I create and manage games using the Roblox game engine in my free time. <br>
-I also like to contribute to the open source world.
+### About Amr
+I am simply love to automate boring things and create solutions to enhance our lives with any tools necessary, if I don't know it I **will learn** it<br>
+I create and maintain multi-million player games using the Roblox game engine in my free time. <br>
+I also like to contribute to the various projects in open source world.
 
 My open-source world contributions so far are: <pre><a href="https://github.com/CarletonComputerScienceSociety"><img src="https://avatars.githubusercontent.com/u/1243507?v=4" align="center" width="20" alt="Carleton University's Computer Science Society (CCSS) Logo"></a> <a href="https://github.com/CarletonComputerScienceSociety">Carleton University's Computer Science Society</a><br>
-<a href="https://hacktoberfest.com"><img src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--logomark.b91c17d2.svg" align="center" width="20" alt="Hacktoberfest 2023 Logo"></a> <a href="https://hacktoberfest.com">Hacktoberfest 2020 and Hacktoberfest 2023</a></pre>
+<a href="https://hacktoberfest.com"><img src="https://iili.io/J5Hxj6B.jpg" align="center" width="20" alt="Hacktoberfest 2023 Logo"></a> <a href="https://hacktoberfest.com">Hacktoberfest 2020 and Hacktoberfest 2023</a></pre>
 
 ---
+
 
 <!--<picture>
     <img src="/github-metrics.svg" alt="Metrics">
 </picture>
 -->
 
+#### Tech I currently use or have used previously
+[![My tech](https://skillicons.dev/icons?i=py,c,cpp,bash,js,ts,lua,go,dart,react,sass,html,css,nodejs,vim,openstack,postgres,powershell,prisma,pug,pycharm,qt,r,raspberrypi,redis,replit,robloxstudio,sqlite,supabase,selenium,ubuntu,vscode,xd,aws,gcp,azure,flutter,anaconda,androidstudio,atom,bitbucket,blender,bootstrap,bun,cloudflare,cmake,codepen,devto,discord,bots,discordjs,django,docker,electron,express,fastapi,figma,firebase,flask,gitlab,gradle,godot,grafana,graphql,gtk,htmx,idea,ai,kali,latex,linux,materialui,mysql,mongodb,netlify,nginx&perline=18)](https://skillicons.dev)
+
+<!-- [![An image of @deniernal354's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deniernal354)](https://holopin.io/@deniernal354)-->
+
+<!--
 ### Languages
 ![Python](https://img.shields.io/badge/Python-07405E?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-07405E.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -123,12 +130,15 @@ My open-source world contributions so far are: <pre><a href="https://github.com/
 > ![GitLab](https://img.shields.io/badge/gitlab-0A0FFF.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 </details>
 
+-->
+
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-gray-eight-32.vercel.app/api?username=Deniernal354&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="Amr Moustafa's github stats"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deniernal354&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
 | <img align="center" src="https://github-profile-trophy.vercel.app/?username=Deniernal354&column=5&margin-w=7&margin-h=7&theme=dracula&no-frame=true" alt="Amr Moustafa's github trophies"/> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Deniernal354&theme=dracula" alt="Amr Moustafa's GitHub Contribution Streaks"/> |
 
-![Profile Views](https://komarev.com/ghpvc/?username=Deniernal354&color=4f6a31&style=flat-square)
-<!--![Profile Views](https://visitcount.itsvg.in/api?id=Deniernal354&icon=0&color=6)-->
+![Profile Views](https://komarev.com/ghpvc/?username=Deniernal354&color=4f6a31&style=flat-square) 
+
+![Profile Views](https://visitcount.itsvg.in/api?id=Deniernal354&icon=0&color=6)
 
 
 <!--
