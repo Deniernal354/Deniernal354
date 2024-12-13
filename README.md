@@ -5,9 +5,9 @@
 
 # 
 
-👨‍💻 Spearheads & develops projects in Python, Java, Go, C, C++, Bash, TypeScript to create efficient solutions to every day problems
+👨‍💻 Dedicated student focusing on spearheading real world projects in Python, Java, Go, C, C++, Bash, TypeScript to create efficient solutions to every day problems
 
-🌐 [Personal Website](https://amr.uk.to?r=githubpage)
+🌐 [Personal Website](https://amr.csproject.org?r=githubpage)
 
 #
 
