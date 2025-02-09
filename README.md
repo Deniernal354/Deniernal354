@@ -138,9 +138,6 @@ My open-source world contributions so far are: <pre><a href="https://github.com/
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Deniernal354&color=4f6a31&style=flat-square) 
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Deniernal354&icon=0&color=6)
-
-
 <!--
 **Deniernal354/Deniernal354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
