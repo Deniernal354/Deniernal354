@@ -11,7 +11,7 @@
 
 #
 
-### About Amr
+### About Me
 I simply love to automate boring tasks and craft solutions to enhance our lives using any piece of tech, if I don't know it I **will learn** it<br>
 I create and maintain multi-million visited games using the Roblox game engine in my free time. <br>
 I also like to contribute to the various projects in open source world.
