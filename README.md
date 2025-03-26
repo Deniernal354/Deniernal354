@@ -5,7 +5,7 @@
 
 # 
 
-👨‍💻 Dedicated student focusing on spearheading real world projects in Python, Java, Go, C, C++, Bash, TypeScript to create efficient solutions to every day problems
+👨‍💻 Dedicated student focusing on spearheading real world projects in Python, C++, Bash, Go to create efficient solutions to every day problems
 
 🌐 [Personal Website](https://amr.csproject.org?r=githubpage)
 
@@ -13,7 +13,7 @@
 
 ### About Me
 I simply love to automate boring tasks and craft solutions to enhance our lives using any piece of tech, if I don't know it I **will learn** it<br>
-I create and maintain multi-million visited games using the Roblox game engine in my free time. <br>
+I create and maintain games with multi-million visitors using the Roblox game engine in my free time. <br>
 I also like to contribute to the various projects in open source world.
 
 My open-source world contributions so far are: <pre><a href="https://github.com/CarletonComputerScienceSociety"><img src="https://avatars.githubusercontent.com/u/1243507?v=4" align="center" width="20" alt="Carleton University's Computer Science Society (CCSS) Logo"></a> <a href="https://github.com/CarletonComputerScienceSociety">Carleton University's Computer Science Society</a><br>
@@ -131,6 +131,10 @@ My open-source world contributions so far are: <pre><a href="https://github.com/
 </details>
 
 -->
+
+### MY HOLOPIN BADGES :D
+[![An image of @deniernal354's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deniernal354)](https://holopin.io/@deniernal354)
+
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-gray-eight-32.vercel.app/api?username=Deniernal354&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="Amr Moustafa's github stats"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deniernal354&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
