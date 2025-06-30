@@ -7,7 +7,9 @@
 
 👨‍💻 Dedicated student focusing on spearheading real world projects in Python, C++, Bash, Go to create efficient solutions to every day problems
 
-🌐 [Personal Website](https://amr.csproject.org?r=githubpage)
+🌐 [Personal Website](https://amr.csproject.org?r=githubpage) | 
+💻 [Self Hosted GitHub](https://git.amr.csproject.org/explore/repos?r=githubpage)
+
 
 #
 
