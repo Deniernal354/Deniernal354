@@ -14,9 +14,11 @@
 #
 
 ### About Me
-I simply love to automate boring tasks and craft solutions to enhance our lives using any piece of tech, if I don't know it I **will learn** it<br>
-I create and maintain games with multi-million visitors using the Roblox game engine in my free time. <br>
-I also like to contribute to the various projects in open source world.
+- I simply love to automate boring tasks and craft solutions to enhance our lives using any piece of tech, if there's something I don't know, I'll make time to learn it well<br>
+
+- I create and maintain games with multi-million visitors using the Roblox game engine in my free time. <br>
+
+- I also like to contribute to the various projects in open source world.
 
 My open-source world contributions so far are: <pre><a href="https://github.com/CarletonComputerScienceSociety"><img src="https://avatars.githubusercontent.com/u/1243507?v=4" align="center" width="20" alt="Carleton University's Computer Science Society (CCSS) Logo"></a> <a href="https://github.com/CarletonComputerScienceSociety">Carleton University's Computer Science Society</a><br>
 <a href="https://hacktoberfest.com"><img src="https://iili.io/J5Hxj6B.jpg" align="center" width="20" alt="Hacktoberfest 2023 Logo"></a> <a href="https://hacktoberfest.com">Hacktoberfest 2020 and Hacktoberfest 2023</a></pre>
