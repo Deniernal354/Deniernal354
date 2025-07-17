@@ -1,6 +1,6 @@
 ![Header](./My-header.png)
 
-#### 🔘 Currently looking for **Summer 2025, and Fall 2025** Internships or CO-OPs
+#### 🔘 Currently looking for **Summer 2026, and Fall 2026** Internships or CO-OPs
 
 
 # 
