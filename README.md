@@ -5,10 +5,9 @@
 
 # 
 
-👨‍💻 Dedicated student focusing on spearheading real world projects in Python, C++, Bash, Go to create efficient solutions to every day problems
+👨‍💻 Dedicated engineer focusing on spearheading real world projects in Python, C++, Bash, Go to create efficient solutions to every day problems
 
-🌐 [Personal Website](https://amr.csproject.org?r=githubpage) | 
-💻 [Self Hosted GitHub](https://git.amr.csproject.org/explore/repos?r=githubpage)
+| 🌐 [Personal Website](https://amr.csproject.org?r=githubpage) | 
 
 
 #
@@ -32,7 +31,10 @@ My open-source world contributions so far are: <pre><a href="https://github.com/
 -->
 
 #### Tech I currently use or have used previously
-[![My tech](https://skillicons.dev/icons?i=py,c,cpp,bash,js,ts,lua,go,dart,react,sass,html,css,nodejs,vim,openstack,postgres,powershell,prisma,pug,pycharm,qt,r,raspberrypi,redis,replit,robloxstudio,sqlite,supabase,selenium,ubuntu,vscode,xd,aws,gcp,azure,flutter,anaconda,androidstudio,atom,bitbucket,blender,bootstrap,bun,cloudflare,cmake,codepen,devto,discord,bots,discordjs,django,docker,electron,express,fastapi,figma,firebase,flask,gitlab,gradle,godot,grafana,graphql,gtk,htmx,idea,ai,kali,latex,linux,materialui,mysql,mongodb,netlify,nginx&perline=18)](https://skillicons.dev)
+[![My tech](https://skillicons.dev/icons?i=py,ts,java,lua,bash,go,dart,react,vim,postgres,powershell,qt,raspberrypi,redis,selenium,aws,gcp,azure,bun,cmake,django,docker,electron,fastapi,firebase,flask,gradle,godot,grafana,graphql,gtk,htmx,kali,mysql,mongodb,nginx&perline=18)](https://skillicons.dev)
+
+Contributions Graph:
+[![contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Deniernal354&theme=react-dark&hide_border=true&area=true)]()
 
 <!-- [![An image of @deniernal354's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deniernal354)](https://holopin.io/@deniernal354)-->
 
@@ -136,13 +138,13 @@ My open-source world contributions so far are: <pre><a href="https://github.com/
 
 -->
 
-### MY HOLOPIN BADGES :D
-[![An image of @deniernal354's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deniernal354)](https://holopin.io/@deniernal354)
 
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-gray-eight-32.vercel.app/api?username=Deniernal354&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="Amr Moustafa's github stats"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deniernal354&layout=compact&theme=dracula&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-gray-eight-32.vercel.app/api?username=Deniernal354&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="Amr Moustafa's github stats"/></a> |  |
 | ------------- | ------------- |
 | <img align="center" src="https://github-profile-trophy.vercel.app/?username=Deniernal354&column=5&margin-w=7&margin-h=7&theme=dracula&no-frame=true" alt="Amr Moustafa's github trophies"/> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Deniernal354&theme=dracula" alt="Amr Moustafa's GitHub Contribution Streaks"/> |
+
+### MY HOLOPIN BADGES :D
+[![An image of @deniernal354's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deniernal354)](https://holopin.io/@deniernal354)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Deniernal354&color=4f6a31&style=flat-square) 
 
